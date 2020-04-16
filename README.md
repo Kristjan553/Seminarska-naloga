@@ -1,0 +1,2 @@
+# Seminarska-naloga
+vpo seminarska
